@@ -1,0 +1,6 @@
+# Arquivos gerados ou de uso interno: nao publicar
+saida/
+novos/
+registro_edicoes.json
+__pycache__/
+*.pyc
