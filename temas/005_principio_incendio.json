@@ -1,0 +1,102 @@
+{
+  "edicao": "05",
+  "categoria": "Emergência e incêndio",
+  "titulo": "Princípio de incêndio",
+  "subtitulo": "Checklist para manter extintores, rotas e equipe prontos para os primeiros segundos de uma emergência.",
+  "aplicacao": "Na inspeção mensal dos equipamentos, na integração de novos colaboradores e após qualquer mudança de layout ou de atividade.",
+  "ilustracao": "extintor",
+  "abertura_titulo": "Os primeiros segundos decidem",
+  "abertura": "Todo grande incêndio começa pequeno. Nos primeiros segundos, um extintor certo, acessível e operado por alguém treinado resolve. Mas o mesmo princípio vira tragédia quando o extintor está atrás de caixas, vencido ou é do tipo errado — ou quando alguém insiste em combater um fogo que já passou do ponto. Saber quando combater é tão importante quanto saber quando evacuar.",
+  "riscos": [
+    {
+      "titulo": "Propagação rápida",
+      "texto": "Combate tardio ou com agente extintor inadequado à classe de fogo."
+    },
+    {
+      "titulo": "Fumaça e calor",
+      "texto": "Intoxicação e queimaduras de quem permanece no ambiente."
+    },
+    {
+      "titulo": "Rota bloqueada",
+      "texto": "Saídas obstruídas, trancadas ou sem sinalização."
+    },
+    {
+      "titulo": "Combate indevido",
+      "texto": "Trabalhador sem treinamento enfrentando fogo fora do estágio inicial."
+    }
+  ],
+  "normas": [
+    {
+      "nr": "NR-23",
+      "tema": "Proteção contra incêndios",
+      "texto": "Medidas de prevenção conforme a legislação estadual e normas técnicas; trabalhadores informados sobre equipamentos de combate, evacuação e alarme; saídas sinalizadas e desobstruídas."
+    },
+    {
+      "nr": "NR-01",
+      "tema": "GRO / PGR",
+      "texto": "Preparação para emergências integrada ao gerenciamento de riscos, com procedimentos de resposta definidos."
+    },
+    {
+      "nr": "NR-26",
+      "tema": "Sinalização",
+      "texto": "Sinalização de segurança para identificar equipamentos de combate, rotas e saídas de emergência."
+    },
+    {
+      "nr": "CBM",
+      "tema": "Corpo de Bombeiros",
+      "texto": "Projeto, brigada, extintores e saídas devem atender às instruções técnicas do Corpo de Bombeiros do estado."
+    }
+  ],
+  "destaque": "Extintor escondido atrás de caixas não é proteção. É decoração.",
+  "checklist_titulo": "Checklist de prontidão para emergência",
+  "checklist": [
+    {
+      "grupo": "Extintores",
+      "icone": "emergencia",
+      "itens": [
+        "Extintores do tipo adequado à classe de fogo de cada área.",
+        "Extintores desobstruídos, sinalizados e com acesso livre.",
+        "Lacre íntegro, manômetro na faixa operacional e inspeção/recarga dentro do prazo.",
+        "Mangueira, difusor e suporte em bom estado."
+      ]
+    },
+    {
+      "grupo": "Rotas e saídas",
+      "icone": "area",
+      "itens": [
+        "Rotas de fuga e saídas de emergência desobstruídas, destrancadas e sinalizadas.",
+        "Iluminação de emergência funcionando.",
+        "Ponto de encontro definido e conhecido."
+      ]
+    },
+    {
+      "grupo": "Pessoas",
+      "icone": "pessoas",
+      "itens": [
+        "Brigada definida e treinada conforme exigência do Corpo de Bombeiros.",
+        "Trabalhadores sabem acionar o alarme, usar o extintor e quando NÃO combater.",
+        "Simulado de abandono realizado no período previsto."
+      ]
+    },
+    {
+      "grupo": "Prevenção",
+      "icone": "alerta",
+      "itens": [
+        "Instalações elétricas sem improvisos, sobrecarga ou aquecimento anormal.",
+        "Inflamáveis armazenados em local próprio, longe de fontes de ignição.",
+        "Cozinhas: gás, fritadeiras e coifas limpos e inspecionados."
+      ]
+    }
+  ],
+  "paralisacao": "Só combata no estágio inicial, com o extintor certo e rota de fuga às costas. Fumaça densa, fogo se espalhando, extintor sem efeito ou rota ameaçada: abandone o local, acione o alarme e o Corpo de Bombeiros (193).",
+  "registro": [
+    "Área/setor",
+    "Data",
+    "Equipamentos verificados",
+    "Brigadista",
+    "Responsável pela verificação",
+    "Assinatura"
+  ],
+  "referencias": "NR-01, NR-23 (Portaria MTP nº 2.769/2022), NR-26, instruções técnicas do Corpo de Bombeiros do estado e normas técnicas ABNT aplicáveis.",
+  "aviso": "checklist de apoio; não substitui projeto de prevenção, brigada, plano de emergência e treinamento."
+}

@@ -1,0 +1,26 @@
+{
+  "marca": "BNSJ ASSESSORIA",
+  "serie": "Café com SESMT",
+  "assinatura_serie": "Checklists operacionais para quem faz a segurança acontecer",
+  "instagram": "@bnsjassessoria_",
+  "instagram_url": "https://instagram.com/bnsjassessoria_",
+  "site_url": "",
+  "site_rotulo": "Site de serviços BNSJ",
+  "autor": "Bruno da Silva de Jesus",
+  "credenciais": "Enfermeiro do Trabalho · Técnico de Segurança do Trabalho · Coordenador de SESMT",
+  "tagline": "Transformando obrigação legal em gestão e resultado.",
+  "livro": {
+    "titulo": "Entre o Frio e a Justiça",
+    "subtitulo": "Insalubridade Qualitativa e os Limites da Prova Técnica",
+    "editora": "E.Impacto",
+    "ano": "2026",
+    "descricao": "Uma obra técnica sobre a exposição ocupacional ao frio que confronta a presunção automática de insalubridade com a reconstrução rigorosa da exposição real — integrando CLT, NR-15 (Anexo 9) e as metodologias ACGIH e ISO 11079.",
+    "para_quem": [
+      "Técnicos e engenheiros de segurança",
+      "Peritos e assistentes técnicos",
+      "Advogados trabalhistas e gestores de SST"
+    ],
+    "capa": "assets/livro_capa.jpg",
+    "foto_extra": "assets/livro_foto.jpg"
+  }
+}

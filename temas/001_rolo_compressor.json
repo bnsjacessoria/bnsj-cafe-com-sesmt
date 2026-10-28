@@ -1,0 +1,105 @@
+{
+  "edicao": "01",
+  "categoria": "Máquinas e equipamentos em obra",
+  "titulo": "Operações com rolo compressor",
+  "subtitulo": "Checklist de campo para prevenir atropelamentos, colisões e tombamentos em frentes de compactação.",
+  "aplicacao": "Antes do início da jornada, na mudança de frente e sempre que houver alteração das condições operacionais.",
+  "abertura_titulo": "Equipamento lento, risco alto",
+  "abertura": "O rolo compressor é um equipamento lento, pesado e de visibilidade restrita. Justamente por parecer inofensivo, ele concentra acidentes graves: atropelamento de quem trabalha ao redor, esmagamento junto ao tambor, colisão em manobras de ré e tombamento em bordas, valas e taludes. Na maioria dos casos, o problema não está no equipamento, mas na organização da frente — gente onde não deveria estar, comunicação falha e terreno não avaliado.",
+  "riscos": [
+    {
+      "titulo": "Atropelamento",
+      "texto": "Pessoas na trajetória, em pontos cegos ou na zona de manobra, principalmente na marcha à ré."
+    },
+    {
+      "titulo": "Esmagamento",
+      "texto": "Aproximação do tambor, carona e permanência entre a máquina e obstáculos fixos."
+    },
+    {
+      "titulo": "Tombamento",
+      "texto": "Operação próxima a bordas, valas, taludes, declives ou solo instável."
+    },
+    {
+      "titulo": "Colisão",
+      "texto": "Circulação simultânea de máquinas e pedestres sem rotas definidas e sem sinaleiro."
+    }
+  ],
+  "normas": [
+    {
+      "nr": "NR-01",
+      "tema": "GRO / PGR",
+      "texto": "A atividade deve estar identificada no inventário de riscos, com medidas de prevenção definidas no plano de ação e trabalhadores informados sobre os riscos."
+    },
+    {
+      "nr": "NR-12",
+      "tema": "Máquinas e equipamentos",
+      "texto": "Operação restrita a trabalhador capacitado e formalmente autorizado; dispositivos de segurança, sinalização e manutenção conforme o fabricante."
+    },
+    {
+      "nr": "NR-18",
+      "tema": "Construção",
+      "texto": "Organização do canteiro, circulação segura de máquinas e pessoas e operação de equipamentos por profissional qualificado e autorizado."
+    },
+    {
+      "nr": "NR-06",
+      "tema": "EPI",
+      "texto": "EPI fornecido conforme os riscos identificados, incluindo vestimenta de alta visibilidade para quem circula na frente de serviço."
+    }
+  ],
+  "destaque": "Checklist bom não é o que fica preenchido na prancheta — é o que paralisa a frente quando um item não fecha.",
+  "checklist_titulo": "Checklist de liberação da frente",
+  "checklist": [
+    {
+      "grupo": "Pessoas",
+      "itens": [
+        "Operador formalmente autorizado, capacitado para o equipamento e orientado sobre os riscos específicos da frente.",
+        "Equipe envolvida orientada (DDS/briefing) sobre circulação, pontos cegos, comunicação e proibição de aproximação.",
+        "Análise de riscos da atividade (APR ou instrumento equivalente) disponível e medidas de controle implementadas."
+      ]
+    },
+    {
+      "grupo": "Equipamento",
+      "itens": [
+        "Rolo compressor inspecionado: freios, direção, pneus/tambores, alarmes, buzina, iluminação, retrovisores/câmeras e dispositivos de segurança.",
+        "Manual do fabricante e recomendações de operação considerados; manutenção e inspeções em dia."
+      ]
+    },
+    {
+      "grupo": "Área e circulação",
+      "itens": [
+        "Área de compactação isolada, sinalizada e com acesso restrito a pessoas autorizadas.",
+        "Rotas de máquinas e pedestres separadas; travessias e acessos definidos.",
+        "Distância segura de pessoas e obstáculos estabelecida conforme equipamento, visibilidade, terreno e análise de riscos.",
+        "Manobras e deslocamentos com visibilidade adequada; uso de sinaleiro quando necessário, em posição protegida e fora da trajetória.",
+        "Comunicação padronizada entre operador e equipe; interrupção imediata em caso de perda de contato visual ou comunicação."
+      ]
+    },
+    {
+      "grupo": "Operação",
+      "itens": [
+        "Terreno verificado: declives, bordas, valas, taludes, instabilidade, redes e interferências.",
+        "Marcha à ré e mudanças de direção planejadas; ninguém permanece na zona de manobra.",
+        "Proibida carona ou permanência de pessoas na trajetória, junto ao tambor ou em pontos cegos."
+      ]
+    },
+    {
+      "grupo": "Proteção e emergência",
+      "itens": [
+        "EPIs compatíveis com os riscos definidos, incluindo vestimenta de alta visibilidade quando aplicável.",
+        "Plano de resposta a emergências conhecido, com meios de comunicação e acesso para socorro."
+      ]
+    }
+  ],
+  "paralisacao": "Não iniciar ou interromper a operação quando houver pessoas na zona de risco, falha de sinalização ou isolamento, defeito em dispositivo de segurança, visibilidade insuficiente, comunicação perdida ou condição de terreno insegura.",
+  "registro": [
+    "Obra/frente",
+    "Data",
+    "Equipamento",
+    "Operador",
+    "Responsável pela verificação",
+    "Assinatura"
+  ],
+  "referencias": "NR-01 (GRO), NR-06 (EPI), NR-12 (segurança em máquinas e equipamentos), NR-18 (construção), procedimentos internos e manual do fabricante, conforme aplicabilidade.",
+  "aviso": "Checklist de apoio: não substitui APR, procedimentos, inspeções, capacitação, projeto de circulação ou demais controles exigidos para a operação.",
+  "ilustracao": "rolo"
+}

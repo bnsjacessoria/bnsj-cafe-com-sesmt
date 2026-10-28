@@ -1,0 +1,102 @@
+{
+  "edicao": "08",
+  "categoria": "Armazenagem",
+  "titulo": "Armazenagem e empilhamento",
+  "subtitulo": "Checklist para prevenir queda de materiais, colapso de estruturas e acidentes em estoques e depósitos.",
+  "aplicacao": "Na inspeção periódica do estoque, após recebimento de cargas e sempre que houver colisão de empilhadeira em estruturas.",
+  "ilustracao": "estante",
+  "abertura_titulo": "O perigo está acima da cabeça",
+  "abertura": "Em estoque, o risco fica parado — até o momento em que cai. Pilha alta demais, palete danificado, carga desalinhada ou porta-palete amassado por uma empilhadeira acumulam energia em silêncio. Quando cedem, atingem quem passa embaixo, e às vezes nem é funcionário: é cliente. Organização de estoque não é estética; é controle de risco.",
+  "riscos": [
+    {
+      "titulo": "Queda de materiais",
+      "texto": "Pilhas instáveis, cargas mal acomodadas e paletes danificados."
+    },
+    {
+      "titulo": "Colapso de estrutura",
+      "texto": "Porta-paletes sobrecarregados ou com colunas e longarinas avariadas."
+    },
+    {
+      "titulo": "Atropelamento",
+      "texto": "Empilhadeiras e pedestres dividindo corredores sem segregação."
+    },
+    {
+      "titulo": "Esforço físico",
+      "texto": "Manuseio manual de cargas em alturas e posturas inadequadas."
+    }
+  ],
+  "normas": [
+    {
+      "nr": "NR-11",
+      "tema": "Armazenagem",
+      "texto": "Material armazenado sem exceder a capacidade de carga do piso, sem obstruir portas, equipamentos contra incêndio, saídas e circulação, e disposto de forma a evitar quedas."
+    },
+    {
+      "nr": "NR-11",
+      "tema": "Equipamentos",
+      "texto": "Empilhadeiras com operador treinado e identificado; equipamentos com carga máxima indicada em local visível."
+    },
+    {
+      "nr": "NR-17",
+      "tema": "Ergonomia",
+      "texto": "Manuseio manual de cargas avaliado, com organização que evite esforço excessivo e posturas extremas."
+    },
+    {
+      "nr": "NR-26",
+      "tema": "Sinalização",
+      "texto": "Corredores, áreas de armazenagem e limites de carga identificados por sinalização de segurança."
+    }
+  ],
+  "destaque": "Pilha bonita não é pilha segura. Segura é a que não cai quando alguém esbarra.",
+  "checklist_titulo": "Checklist de inspeção do estoque",
+  "checklist": [
+    {
+      "grupo": "Estruturas",
+      "icone": "equipamento",
+      "itens": [
+        "Porta-paletes com capacidade de carga indicada e respeitada por nível.",
+        "Colunas, longarinas e travas sem amassados, deformações ou peças faltando.",
+        "Estruturas ancoradas ao piso e com protetores de coluna nos corredores."
+      ]
+    },
+    {
+      "grupo": "Cargas e pilhas",
+      "icone": "carga",
+      "itens": [
+        "Paletes íntegros, sem tábuas quebradas ou pregos expostos.",
+        "Cargas alinhadas, estáveis e sem sobras para fora do palete.",
+        "Pilhas com altura compatível com a resistência da embalagem e com a estabilidade.",
+        "Itens mais pesados nos níveis mais baixos."
+      ]
+    },
+    {
+      "grupo": "Circulação",
+      "icone": "area",
+      "itens": [
+        "Corredores demarcados, desobstruídos e com largura compatível com os equipamentos.",
+        "Rotas de pedestres separadas das rotas de empilhadeiras.",
+        "Extintores, hidrantes, quadros elétricos e saídas sem obstrução."
+      ]
+    },
+    {
+      "grupo": "Pessoas e equipamentos",
+      "icone": "pessoas",
+      "itens": [
+        "Operador de empilhadeira treinado e identificado.",
+        "Colisões em estruturas comunicadas e avaliadas antes de recarregar o local.",
+        "Proibido escalar estruturas ou circular sob cargas sendo movimentadas."
+      ]
+    }
+  ],
+  "paralisacao": "Interditar o local e descarregar com segurança quando houver estrutura amassada ou inclinada, carga acima da capacidade, pilha inclinada ou palete cedendo. Ninguém circula sob a área até a avaliação.",
+  "registro": [
+    "Depósito/setor",
+    "Data",
+    "Rua/estrutura",
+    "Inspetor",
+    "Responsável pela verificação",
+    "Assinatura"
+  ],
+  "referencias": "NR-01, NR-11, NR-17, NR-26, manual do fabricante das estruturas e normas técnicas ABNT aplicáveis.",
+  "aviso": "checklist de apoio; não substitui projeto e inspeção das estruturas, procedimentos e capacitação."
+}

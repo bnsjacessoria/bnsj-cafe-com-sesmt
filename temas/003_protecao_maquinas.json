@@ -1,0 +1,109 @@
+{
+  "edicao": "03",
+  "categoria": "Máquinas e equipamentos",
+  "titulo": "Partes móveis de máquinas",
+  "subtitulo": "Checklist para prevenir esmagamentos, amputações e arrastamentos em máquinas com partes móveis.",
+  "aplicacao": "Antes do início da jornada, após manutenção ou ajuste e sempre que houver troca de operador ou de ferramenta.",
+  "ilustracao": "engrenagem",
+  "abertura_titulo": "A máquina não sabe que a mão é sua",
+  "abertura": "Correia, rolo, engrenagem, eixo e ferramenta de corte não distinguem material de gente. A maior parte dos acidentes graves em máquinas acontece em segundos de 'só vou tirar isso aqui': desenroscar um material, limpar com a máquina girando, ajustar sem desligar. Proteção retirada, intertravamento anulado e manutenção sem bloqueio transformam um gesto de rotina em amputação.",
+  "riscos": [
+    {
+      "titulo": "Esmagamento",
+      "texto": "Mãos e dedos entre partes que se fecham: prensas, rolos, cilindros e moldes."
+    },
+    {
+      "titulo": "Arrastamento",
+      "texto": "Roupa, luva, cabelo ou adorno puxado por eixos, correias e partes rotativas."
+    },
+    {
+      "titulo": "Corte e amputação",
+      "texto": "Discos, serras, lâminas e ferramentas sem proteção ou com acessório inadequado."
+    },
+    {
+      "titulo": "Partida inesperada",
+      "texto": "Máquina religada durante limpeza, ajuste ou manutenção sem bloqueio de energias."
+    }
+  ],
+  "normas": [
+    {
+      "nr": "NR-12",
+      "tema": "Máquinas e equipamentos",
+      "texto": "Zonas de perigo protegidas por proteções fixas ou móveis com intertravamento, dispositivos de parada de emergência e intervenções com máquina parada e energias bloqueadas."
+    },
+    {
+      "nr": "NR-12",
+      "tema": "Capacitação",
+      "texto": "Operação, manutenção e ajuste somente por trabalhador capacitado e autorizado, com procedimentos de trabalho e segurança específicos da máquina."
+    },
+    {
+      "nr": "NR-01",
+      "tema": "GRO / PGR",
+      "texto": "Riscos de cada máquina identificados no inventário, com medidas de prevenção priorizando proteção coletiva e engenharia."
+    },
+    {
+      "nr": "NR-06",
+      "tema": "EPI",
+      "texto": "EPI conforme o risco avaliado; luvas só onde não houver risco de arrastamento por partes rotativas."
+    }
+  ],
+  "destaque": "Proteção retirada para 'ganhar tempo' é tempo emprestado — e a conta chega na mão de alguém.",
+  "checklist_titulo": "Checklist de liberação da máquina",
+  "checklist": [
+    {
+      "grupo": "Proteções",
+      "icone": "equipamento",
+      "itens": [
+        "Proteções fixas instaladas, íntegras e presas com elementos que exigem ferramenta para remoção.",
+        "Proteções móveis com intertravamento funcionando: ao abrir, a máquina para e não religa.",
+        "Nenhum acesso à zona de perigo por cima, por baixo, pelas laterais ou por aberturas da proteção."
+      ]
+    },
+    {
+      "grupo": "Comandos e emergência",
+      "icone": "alerta",
+      "itens": [
+        "Botões de parada de emergência sinalizados, acessíveis e testados no início do turno.",
+        "Comandos de partida protegidos contra acionamento acidental.",
+        "Nenhum dispositivo de segurança anulado, jampeado ou com sensor bloqueado."
+      ]
+    },
+    {
+      "grupo": "Operador",
+      "icone": "pessoas",
+      "itens": [
+        "Operador capacitado e autorizado para aquela máquina específica.",
+        "Sem adornos, cabelo solto, roupas folgadas ou luvas em pontos com risco de arrastamento.",
+        "Ferramentas e acessórios corretos para a máquina (disco, lâmina, rotação compatível)."
+      ]
+    },
+    {
+      "grupo": "Manutenção e limpeza",
+      "icone": "operacao",
+      "itens": [
+        "Limpeza, ajuste e desobstrução somente com a máquina parada.",
+        "Energias bloqueadas e etiquetadas antes de intervenção (elétrica, pneumática, hidráulica, gravidade).",
+        "Ausência de energia confirmada (teste de partida) antes de colocar a mão na máquina.",
+        "Proteções reinstaladas e testadas antes de liberar a máquina para produção."
+      ]
+    },
+    {
+      "grupo": "Ambiente",
+      "icone": "area",
+      "itens": [
+        "Área de operação limpa, iluminada, sem material no piso e com circulação demarcada."
+      ]
+    }
+  ],
+  "paralisacao": "Não operar ou parar imediatamente com proteção ausente ou danificada, intertravamento ou emergência sem funcionar, dispositivo de segurança anulado, ruído ou vibração anormal, ou necessidade de intervir na máquina em movimento.",
+  "registro": [
+    "Setor",
+    "Data",
+    "Máquina",
+    "Operador",
+    "Responsável pela verificação",
+    "Assinatura"
+  ],
+  "referencias": "NR-01, NR-06, NR-12, manual do fabricante, procedimentos de bloqueio e etiquetagem e procedimentos internos.",
+  "aviso": "checklist de apoio; não substitui apreciação de riscos da máquina, procedimentos, inspeções e capacitação."
+}

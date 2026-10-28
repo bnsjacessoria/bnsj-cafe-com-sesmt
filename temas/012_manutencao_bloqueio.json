@@ -1,0 +1,101 @@
+{
+  "edicao": "12",
+  "categoria": "Manutenção de máquinas",
+  "titulo": "Bloqueio na manutenção",
+  "subtitulo": "Checklist para liberar uma intervenção em máquina com energia zero, bloqueio e etiquetagem antes de colocar a mão.",
+  "aplicacao": "Antes de qualquer manutenção, limpeza, ajuste, lubrificação ou desobstrução e na troca de turno ou de equipe durante a intervenção.",
+  "ilustracao": "bloqueio",
+  "abertura_titulo": "Desligada não é segura",
+  "abertura": "Botão no zero, painel apagado, máquina parada. É aí que a equipe relaxa. Só que o cilindro ainda tem pressão, a mola está carregada, a caçamba está suspensa e o pessoal do outro turno não sabe que tem gente lá dentro. Em acidente de manutenção o padrão se repete: faltou cadeado no ponto de corte, faltou testar a partida, faltou travar o que podia descer.",
+  "riscos": [
+    {
+      "titulo": "Partida inesperada",
+      "texto": "Religamento por terceiro, automação ou comando remoto."
+    },
+    {
+      "titulo": "Energia residual",
+      "texto": "Pressão hidráulica ou pneumática, molas e capacitores carregados."
+    },
+    {
+      "titulo": "Queda de componentes",
+      "texto": "Partes suspensas ou basculadas descendo sem trava mecânica."
+    },
+    {
+      "titulo": "Esmagamento e amputação",
+      "texto": "Mãos e corpo dentro da zona de perigo quando algo se movimenta."
+    }
+  ],
+  "normas": [
+    {
+      "nr": "NR-12",
+      "tema": "Máquina parada",
+      "texto": "Intervenção com máquina parada, por profissional capacitado e formalmente autorizado; energias isoladas e descarregadas, corte bloqueado e etiqueta com data e horário."
+    },
+    {
+      "nr": "NR-12",
+      "tema": "Energia residual",
+      "texto": "Sem risco a jusante dos pontos de corte; medidas adicionais em sustentação hidráulica ou pneumática e trava mecânica em partes basculadas."
+    },
+    {
+      "nr": "NR-10",
+      "tema": "Desenergização",
+      "texto": "Seccionamento, impedimento de reenergização, constatação de ausência de tensão, aterramento temporário, proteção de partes energizadas e sinalização."
+    },
+    {
+      "nr": "NR-01",
+      "tema": "GRO / PGR",
+      "texto": "Perigos identificados e riscos avaliados, com medidas no PGR priorizando eliminação e proteção coletiva antes de medidas administrativas e EPI."
+    }
+  ],
+  "destaque": "Máquina desligada não significa máquina segura. Segura é a máquina bloqueada, testada e travada.",
+  "checklist_titulo": "Checklist de liberação para manutenção",
+  "checklist": [
+    {
+      "grupo": "Planejamento",
+      "icone": "alerta",
+      "itens": [
+        "Análise de Riscos (APR): perigos identificados e medidas preventivas definidas.",
+        "Profissionais capacitados: manutenção somente por trabalhadores autorizados e capacitados, qualificados ou habilitados, conforme aplicável."
+      ]
+    },
+    {
+      "grupo": "Desligamento e bloqueio",
+      "icone": "equipamento",
+      "itens": [
+        "Desligamento completo: nunca realizar manutenção com a máquina em funcionamento, salvo procedimentos específicos tecnicamente previstos e protegidos.",
+        "Bloqueio e etiquetagem (LOTO): impedir o religamento acidental ou não autorizado.",
+        "Cada executante com cadeado próprio e etiqueta com nome, data e horário."
+      ]
+    },
+    {
+      "grupo": "Energia zero",
+      "icone": "operacao",
+      "itens": [
+        "Energia zero: isolar todas as fontes de energia e eliminar ou controlar energias residuais.",
+        "Verificação de segurança: testar a eficácia dos bloqueios antes da intervenção.",
+        "Travamento mecânico: impedir quedas ou movimentos inesperados de componentes."
+      ]
+    },
+    {
+      "grupo": "Área e retorno",
+      "icone": "area",
+      "itens": [
+        "Isolamento da área: impedir o acesso de pessoas não autorizadas.",
+        "Proteções reinstaladas, ferramentas recolhidas e ninguém na zona de perigo.",
+        "Bloqueio retirado só por quem o instalou; partida comunicada à equipe.",
+        "Intervenção registrada: data, serviço, peças e responsável."
+      ]
+    }
+  ],
+  "paralisacao": "Não iniciar ou parar se faltar cadeado ou etiqueta em alguma fonte de energia, se o teste de partida não confirmar energia zero, se houver parte suspensa sem trava ou pessoa não autorizada na área.",
+  "registro": [
+    "Setor",
+    "Data",
+    "Máquina",
+    "Fontes bloqueadas",
+    "Executantes",
+    "Responsável pela liberação"
+  ],
+  "referencias": "NR-01, NR-10 (nova redação, Port. MTE 737/2026, vigora em 01/06/2027), NR-12 (item 12.11) e manual do fabricante.",
+  "aviso": "checklist de apoio; não substitui APR, procedimentos de bloqueio, manual do fabricante e capacitação."
+}

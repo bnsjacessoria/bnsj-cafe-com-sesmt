@@ -1,0 +1,101 @@
+{
+  "edicao": "06",
+  "categoria": "Trabalho a quente",
+  "titulo": "Solda e corte em tambores e tanques",
+  "subtitulo": "Checklist para prevenir explosões em trabalho a quente em recipientes que já contiveram inflamáveis.",
+  "aplicacao": "Antes de qualquer solda, corte, esmerilhamento ou aquecimento em tambor, tanque, tubulação ou recipiente que tenha contido produto inflamável ou desconhecido.",
+  "ilustracao": "tambor",
+  "abertura_titulo": "Vazio não significa seguro",
+  "abertura": "Um tambor 'vazio' que já guardou combustível, solvente ou tinta é, muitas vezes, mais perigoso do que cheio: o resíduo evapora e forma uma mistura inflamável no espaço interno. Basta a faísca de um disco ou o calor de uma solda para a tampa virar projétil. Esse acidente se repete porque o recipiente parece inofensivo — e porque ninguém mediu a atmosfera antes de acender o maçarico.",
+  "riscos": [
+    {
+      "titulo": "Explosão",
+      "texto": "Vapores residuais inflamáveis no interior do recipiente."
+    },
+    {
+      "titulo": "Projeção",
+      "texto": "Tampas, fundos e fragmentos lançados com violência."
+    },
+    {
+      "titulo": "Queimaduras",
+      "texto": "Chamas, metal quente e incêndio no entorno."
+    },
+    {
+      "titulo": "Intoxicação",
+      "texto": "Gases e vapores do produto residual e da própria solda."
+    }
+  ],
+  "normas": [
+    {
+      "nr": "NR-20",
+      "tema": "Inflamáveis e combustíveis",
+      "texto": "Intervenções com inflamáveis exigem análise de riscos e medidas de controle definidas antes do início, eliminando a atmosfera inflamável."
+    },
+    {
+      "nr": "NR-18",
+      "tema": "Construção",
+      "texto": "Trabalhos a quente com medidas de prevenção contra incêndio e explosão, inspeção do local e proteção do entorno."
+    },
+    {
+      "nr": "NR-33",
+      "tema": "Espaço confinado",
+      "texto": "Se for necessário entrar no tanque ou recipiente, aplicam-se os requisitos de espaço confinado, com medição de atmosfera e permissão de entrada."
+    },
+    {
+      "nr": "NR-01",
+      "tema": "GRO / PGR",
+      "texto": "Trabalho a quente identificado no inventário de riscos, com procedimento e controles definidos."
+    }
+  ],
+  "destaque": "Antes de acender o maçarico, pergunte: o que esse recipiente já guardou?",
+  "checklist_titulo": "Checklist de liberação do trabalho a quente",
+  "checklist": [
+    {
+      "grupo": "Produto e recipiente",
+      "icone": "carga",
+      "itens": [
+        "Produto que o recipiente conteve identificado (rótulo, FDS ou informação do responsável).",
+        "Recipiente esvaziado, drenado e com resíduos removidos.",
+        "Limpeza/descontaminação realizada por método adequado ao produto (lavagem, vapor, inertização).",
+        "Recipiente aberto e ventilado, sem tampas ou bujões que confinem gases."
+      ]
+    },
+    {
+      "grupo": "Atmosfera",
+      "icone": "alerta",
+      "itens": [
+        "Medição de explosividade realizada com detector calibrado, interna e no entorno.",
+        "Medição repetida após pausas e durante o trabalho, quando aplicável."
+      ]
+    },
+    {
+      "grupo": "Liberação",
+      "icone": "equipamento",
+      "itens": [
+        "Análise de risco e permissão de trabalho a quente emitidas e assinadas.",
+        "Executante capacitado e autorizado para solda/corte.",
+        "Equipamento de solda/corte inspecionado (mangueiras, válvulas corta-chama, cabos)."
+      ]
+    },
+    {
+      "grupo": "Entorno e emergência",
+      "icone": "emergencia",
+      "itens": [
+        "Materiais combustíveis afastados ou protegidos contra fagulhas.",
+        "Extintor adequado e observador de fogo no local durante e após o serviço.",
+        "Área isolada e pessoas não envolvidas afastadas da linha de projeção."
+      ]
+    }
+  ],
+  "paralisacao": "Não iniciar sem saber o que o recipiente conteve, sem descontaminação ou sem medição de atmosfera. Parar imediatamente com leitura de explosividade acima de zero, odor de produto, fumaça anormal ou mudança nas condições do local.",
+  "registro": [
+    "Local/setor",
+    "Data",
+    "Recipiente/produto",
+    "Executante",
+    "Responsável pela liberação",
+    "Assinatura"
+  ],
+  "referencias": "NR-01, NR-18 (quando aplicável), NR-20, NR-33, FDS do produto, normas técnicas aplicáveis e procedimentos internos.",
+  "aviso": "checklist de apoio; não substitui análise de risco, permissão de trabalho a quente, medição de atmosfera e capacitação."
+}

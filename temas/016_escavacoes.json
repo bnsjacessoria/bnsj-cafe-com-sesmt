@@ -1,0 +1,107 @@
+{
+  "edicao": "16",
+  "categoria": "Escavações e fundações",
+  "titulo": "Escavações sem desmoronamento",
+  "subtitulo": "Checklist para prevenir soterramento em valas, cavas e escavações, inclusive em obras pequenas.",
+  "aplicacao": "Antes de abrir a escavação, no início de cada jornada, depois de chuva e sempre que mudarem o solo, as cargas próximas ou a profundidade.",
+  "ilustracao": "vala",
+  "abertura_titulo": "Obra pequena, risco grande",
+  "abertura": "Vala de fundação de muro, cava de fossa, ramal de esgoto: é ali que o pessoal desce sem escoramento porque \"é rapidinho\" e \"o barranco está firme\". A terra tirada fica na beirada, o caminhão encosta para descarregar e, depois da chuva da noite, ninguém olha o talude. Um metro cúbico de solo pesa mais de uma tonelada. Quando a parede cede, não dá tempo de sair.",
+  "riscos": [
+    {
+      "titulo": "Soterramento",
+      "texto": "Parede da escavação cedendo sobre o trabalhador, sem tempo de reação."
+    },
+    {
+      "titulo": "Sobrecarga na borda",
+      "texto": "Terra retirada, materiais, máquinas e veículos próximos demais da beirada."
+    },
+    {
+      "titulo": "Água no solo",
+      "texto": "Chuva, infiltração ou vazamento de tubulação reduzindo a estabilidade do terreno."
+    },
+    {
+      "titulo": "Interferências",
+      "texto": "Cabos elétricos e tubulações de água, esgoto ou gás atingidos na escavação."
+    }
+  ],
+  "normas": [
+    {
+      "nr": "NR-18",
+      "tema": "18.7.2.3 e 18.7.2.8 · Acima de 1,25 m",
+      "texto": "Só inicia com liberação do profissional habilitado; taludes ou escoramentos definidos em projeto e escadas ou rampas para saída rápida."
+    },
+    {
+      "nr": "NR-18",
+      "tema": "18.7.2.8.1 · Até 1,25 m",
+      "texto": "Avaliar no local a existência de riscos e, se necessário, adotar medidas de prevenção."
+    },
+    {
+      "nr": "NR-18",
+      "tema": "18.7.2.7 · Bordas",
+      "texto": "Faixa de proteção de no mínimo 1 m livre de cargas nas bordas, e proteção contra a entrada de águas superficiais."
+    },
+    {
+      "nr": "NR-18",
+      "tema": "18.7.2.2 e 18.7.2.11 · Controle",
+      "texto": "Sinalização de advertência, inclusive noturna, e isolamento do perímetro; escoramentos inspecionados diariamente."
+    }
+  ],
+  "destaque": "Barranco não avisa. Quem avisa é a inspeção feita antes de descer.",
+  "checklist_titulo": "Checklist antes de liberar a escavação",
+  "checklist": [
+    {
+      "grupo": "Solo e projeto",
+      "icone": "area",
+      "itens": [
+        "Avalie a estabilidade e as características do solo.",
+        "Verifique rachaduras, infiltrações e sinais de movimentação do terreno.",
+        "Acima de 1,25 m: liberação do profissional habilitado e projeto de talude ou escoramento."
+      ]
+    },
+    {
+      "grupo": "Proteção da escavação",
+      "icone": "alerta",
+      "itens": [
+        "Utilize escoramentos ou taludes adequados, conforme avaliação técnica.",
+        "Escada ou rampa junto ao posto de trabalho para saída rápida."
+      ]
+    },
+    {
+      "grupo": "Bordas e cargas",
+      "icone": "carga",
+      "itens": [
+        "Mantenha máquinas, materiais e terra retirada afastados das bordas (faixa mínima de 1 m).",
+        "Evite vibrações e sobrecargas próximas à escavação.",
+        "Tráfego de veículos desviado ou com velocidade reduzida."
+      ]
+    },
+    {
+      "grupo": "Inspeção e clima",
+      "icone": "clima",
+      "itens": [
+        "Inspecione o terreno diariamente, principalmente após chuvas.",
+        "Escoramento conferido no início da jornada, sem peças soltas ou deformadas."
+      ]
+    },
+    {
+      "grupo": "Área e interferências",
+      "icone": "pessoas",
+      "itens": [
+        "Perímetro isolado e sinalizado, com sinalização noturna.",
+        "Cabos e tubulações localizados e protegidos antes de escavar."
+      ]
+    }
+  ],
+  "paralisacao": "Saia da escavação e não libere se surgirem trincas, desprendimento de terra, água minando, escoramento deformado ou ausente onde exigido, carga ou máquina junto à borda, ou escavação acima de 1,25 m sem liberação do profissional habilitado.",
+  "registro": [
+    "Obra/local",
+    "Data",
+    "Profundidade",
+    "Tipo de proteção",
+    "Executante(s)",
+    "Responsável pela liberação"
+  ],
+  "referencias": "NR-18 (subitem 18.7.2, texto atualizado até a Portaria MTE nº 836/2026), NR-01, projeto do profissional habilitado e procedimentos internos.",
+  "aviso": "checklist de apoio; não substitui projeto, APR, procedimentos e capacitação."
+}

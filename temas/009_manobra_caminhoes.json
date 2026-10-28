@@ -1,0 +1,102 @@
+{
+  "edicao": "09",
+  "categoria": "Logística e pátios",
+  "titulo": "Manobra de caminhões",
+  "subtitulo": "Checklist para prevenir atropelamento e prensamento em manobras de pátio, docas e áreas de carga e descarga.",
+  "aplicacao": "No início do turno, a cada nova operação de doca ou pátio e sempre que mudarem o fluxo de veículos, a equipe ou a iluminação.",
+  "ilustracao": "caminhao",
+  "abertura_titulo": "O motorista não vê quem está atrás",
+  "abertura": "Em pátio e doca, o acidente quase sempre tem o mesmo roteiro: caminhão dando ré, ajudante orientando de dentro do ponto cego, conferente cruzando a área de manobra com a prancheta na mão. Ninguém viu ninguém. Basta um metro entre a carroceria e a parede da doca para virar prensamento. Separar gente de veículo e definir quem orienta a manobra resolve mais do que qualquer cartaz.",
+  "riscos": [
+    {
+      "titulo": "Atropelamento",
+      "texto": "Pedestres circulando na mesma faixa dos veículos, sem rota segregada."
+    },
+    {
+      "titulo": "Prensamento",
+      "texto": "Trabalhador entre o caminhão e a doca, parede, outro veículo ou carga."
+    },
+    {
+      "titulo": "Ponto cego",
+      "texto": "Manobra em ré sem visão do motorista e sem orientação de pessoa capacitada."
+    },
+    {
+      "titulo": "Falha de comunicação",
+      "texto": "Sinais não combinados, várias pessoas orientando ou motorista sem contato visual."
+    }
+  ],
+  "normas": [
+    {
+      "nr": "NR-01",
+      "tema": "Gerenciamento de riscos",
+      "texto": "Identificar perigos e avaliar riscos da circulação de veículos e pedestres, com medidas de prevenção no PGR e trabalhadores informados."
+    },
+    {
+      "nr": "NR-11",
+      "tema": "Movimentação de materiais",
+      "texto": "Operador de equipamento de transporte motorizado treinado, habilitado e com cartão de identificação visível; equipamento com buzina."
+    },
+    {
+      "nr": "NR-26",
+      "tema": "Sinalização",
+      "texto": "Sinalização e identificação de segurança nos locais de trabalho, com cores para indicar e advertir acerca dos perigos existentes."
+    },
+    {
+      "nr": "NR-18",
+      "tema": "Em obras",
+      "texto": "Máquina autopropelida com retrovisores e alarme de ré; com visão dificultada, trabalhador capacitado orienta o operador."
+    }
+  ],
+  "destaque": "Na manobra, quem orienta precisa ser visto. Se o motorista perdeu você no retrovisor, a manobra para.",
+  "checklist_titulo": "Checklist de liberação da manobra",
+  "checklist": [
+    {
+      "grupo": "Pátio e rotas",
+      "icone": "area",
+      "itens": [
+        "Área de manobra delimitada e sinalizada, separada das rotas de pedestres.",
+        "Rotas de pedestres definidas, sinalizadas e livres; travessias em pontos determinados.",
+        "Iluminação adequada no pátio e nas docas, inclusive em operação noturna."
+      ]
+    },
+    {
+      "grupo": "Veículo e doca",
+      "icone": "operacao",
+      "itens": [
+        "Alarme sonoro de ré e retrovisores funcionando; buzina testada nos equipamentos motorizados.",
+        "Veículo calçado ou travado na doca antes do acesso para carga e descarga.",
+        "Velocidade máxima do pátio definida e sinalizada."
+      ]
+    },
+    {
+      "grupo": "Equipe e comunicação",
+      "icone": "pessoas",
+      "itens": [
+        "Sinaleiro definido e capacitado: uma única pessoa orienta a manobra.",
+        "Sinais combinados com o motorista e contato visual mantido durante toda a ré.",
+        "Sinaleiro posicionado fora da trajetória e fora da zona entre veículo e estrutura fixa.",
+        "Trabalhadores com vestimenta de alta visibilidade na área de pátio."
+      ]
+    },
+    {
+      "grupo": "Durante a manobra",
+      "icone": "alerta",
+      "itens": [
+        "Ninguém atrás do veículo, entre veículos ou entre o veículo e a doca durante a manobra.",
+        "Motorista confirma que não há ninguém sobre, sob ou perto do veículo antes de movimentar.",
+        "Pedestres não envolvidos aguardam fora da área até a liberação."
+      ]
+    }
+  ],
+  "paralisacao": "Pare a manobra na hora se o motorista perder o contato visual com o sinaleiro, se houver pessoa na área de manobra ou entre veículo e estrutura, se o alarme de ré falhar ou se mais de uma pessoa estiver orientando.",
+  "registro": [
+    "Unidade/pátio",
+    "Data",
+    "Veículo/placa",
+    "Motorista",
+    "Sinaleiro",
+    "Responsável pela liberação"
+  ],
+  "referencias": "NR-01, NR-11, NR-26, NR-18 (em obras), Código de Trânsito Brasileiro nas vias públicas, procedimentos internos de pátio e doca.",
+  "aviso": "checklist de apoio; não substitui o PGR, o plano de circulação, procedimentos e capacitação."
+}

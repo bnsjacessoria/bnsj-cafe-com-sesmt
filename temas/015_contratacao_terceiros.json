@@ -1,0 +1,101 @@
+{
+  "edicao": "15",
+  "categoria": "Gestão de terceiros",
+  "titulo": "Terceiros com máquinas",
+  "subtitulo": "Checklist para conferir equipamento, operador e planejamento da contratada antes de liberar o serviço.",
+  "aplicacao": "Antes de fechar a contratação, na chegada da equipe e da máquina ao local e sempre que a contratada trocar de operador, de equipamento ou de frente de serviço.",
+  "ilustracao": "contratacao",
+  "abertura_titulo": "Terceirizar não é lavar as mãos",
+  "abertura": "O orçamento mais barato chega no portão: máquina sem proteção na correia, operador que ninguém sabe quem treinou e EPI dentro da cabine, sem uso. Como \"é serviço deles\", a equipe da casa libera e volta para a sua rotina. Quando acontece o acidente, a primeira pergunta da fiscalização é quem conferiu antes de liberar. A conferência se faz na entrada, antes do primeiro giro do motor.",
+  "riscos": [
+    {
+      "titulo": "Máquina sem proteção",
+      "texto": "Partes móveis expostas, proteções retiradas ou dispositivos de parada inoperantes."
+    },
+    {
+      "titulo": "Operador não capacitado",
+      "texto": "Gente operando ou intervindo sem capacitação comprovada nem autorização."
+    },
+    {
+      "titulo": "Riscos combinados",
+      "texto": "Serviço da contratada interferindo na rotina e nas pessoas da contratante."
+    },
+    {
+      "titulo": "Responsabilidade compartilhada",
+      "texto": "Contratante também pode responder pelas falhas, conforme as circunstâncias."
+    }
+  ],
+  "normas": [
+    {
+      "nr": "NR-01",
+      "tema": "1.5.8 · Terceiros no PGR",
+      "texto": "PGR da contratante inclui medidas para as contratadas em suas dependências, ou usa o inventário de riscos e plano de ação delas."
+    },
+    {
+      "nr": "NR-01",
+      "tema": "1.5.8 · Riscos combinados",
+      "texto": "Riscos informados entre contratante e contratada; havendo interação, medidas definidas em conjunto, sob coordenação da contratante."
+    },
+    {
+      "nr": "NR-12",
+      "tema": "Proteção e capacitação",
+      "texto": "Zonas de perigo com sistemas de segurança; operação e intervenções só por trabalhadores capacitados e autorizados."
+    },
+    {
+      "nr": "NR-06",
+      "tema": "EPI",
+      "texto": "EPI adequado ao risco, com CA, fornecido gratuitamente, com treinamento, uso exigido e entrega registrada."
+    }
+  ],
+  "destaque": "Terceirizar o serviço não significa terceirizar a responsabilidade.",
+  "checklist_titulo": "Checklist antes de liberar a contratada",
+  "checklist": [
+    {
+      "grupo": "Equipamento",
+      "icone": "equipamento",
+      "itens": [
+        "Condições de segurança dos equipamentos.",
+        "Existência de dispositivos de proteção.",
+        "Proteções fixas e móveis instaladas e parada de emergência testada antes do início."
+      ]
+    },
+    {
+      "grupo": "Pessoas",
+      "icone": "pessoas",
+      "itens": [
+        "Capacitação dos operadores.",
+        "Operador autorizado pela contratada, com documento conferido na entrada.",
+        "Uso adequado dos EPIs."
+      ]
+    },
+    {
+      "grupo": "Planejamento",
+      "icone": "alerta",
+      "itens": [
+        "Planejamento e avaliação dos riscos.",
+        "Riscos da contratante informados à contratada e vice-versa, com medidas combinadas.",
+        "Contratada incluída no PGR ou com inventário de riscos e plano de ação entregues."
+      ]
+    },
+    {
+      "grupo": "Área e acompanhamento",
+      "icone": "area",
+      "itens": [
+        "Área do serviço isolada e sinalizada, sem trabalhadores da casa na zona de perigo.",
+        "Responsável da contratante designado para acompanhar e liberar o serviço.",
+        "Desvios registrados e serviço paralisado até a correção."
+      ]
+    }
+  ],
+  "paralisacao": "Não libere ou pare o serviço se a máquina estiver sem proteção ou com parada de emergência inoperante, se o operador não comprovar capacitação e autorização, se faltar EPI adequado ou se não houver avaliação dos riscos da atividade.",
+  "registro": [
+    "Empresa contratada",
+    "Data",
+    "Serviço/local",
+    "Equipamento",
+    "Operador(es)",
+    "Responsável pela liberação"
+  ],
+  "referencias": "NR-01 (subitem 1.5.8), NR-06, NR-12 e Lei 6.019/1974 (art. 5º-A, § 3º).",
+  "aviso": "checklist de apoio; não substitui APR, contrato, procedimentos e capacitação."
+}

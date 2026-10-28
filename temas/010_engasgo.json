@@ -1,0 +1,108 @@
+{
+  "edicao": "10",
+  "categoria": "Emergência e primeiros socorros",
+  "titulo": "Engasgo: como agir",
+  "subtitulo": "Checklist para reconhecer a obstrução grave das vias aéreas e agir nos primeiros minutos, no trabalho e fora dele.",
+  "aplicacao": "Para treinamento das equipes, revisão do plano de emergência e consulta rápida no posto de primeiros socorros e nos refeitórios.",
+  "ilustracao": "primeiros_socorros",
+  "abertura_titulo": "Quatro minutos não esperam a ambulância",
+  "abertura": "Refeitório cheio, conversa no intervalo, alguém leva a mão ao pescoço e não sai som. Nessa hora, quem está do lado é o primeiro socorro. Se ninguém reconhece o sinal ou trava sem saber o que fazer, o tempo acaba antes de o SAMU chegar. Engasgo grave se resolve com técnica simples, treinada antes. Plano de emergência que não prevê isso está incompleto.",
+  "riscos": [
+    {
+      "titulo": "Obstrução total",
+      "texto": "Vítima não fala, não tosse e não respira: sem ar, perde a consciência em minutos."
+    },
+    {
+      "titulo": "Demora no socorro",
+      "texto": "Ninguém reconhece o sinal ou espera a ambulância sem iniciar a manobra."
+    },
+    {
+      "titulo": "Técnica errada",
+      "texto": "Compressão abdominal em gestante, bebê tratado como adulto ou dedo às cegas na boca."
+    },
+    {
+      "titulo": "Parada respiratória",
+      "texto": "Vítima inconsciente sem início imediato de RCP pela equipe treinada."
+    }
+  ],
+  "normas": [
+    {
+      "nr": "NR-01",
+      "tema": "Resposta a emergências",
+      "texto": "A organização deve estabelecer, implementar e manter procedimentos de resposta a emergências."
+    },
+    {
+      "nr": "NR-01",
+      "tema": "Primeiros socorros",
+      "texto": "Os procedimentos de emergência devem prever os meios, os responsáveis e os recursos necessários para os primeiros socorros."
+    },
+    {
+      "nr": "AHA 2025",
+      "tema": "Adulto e criança",
+      "texto": "Obstrução grave: alternar 5 golpes nas costas, entre as escápulas, com 5 compressões abdominais até desobstruir. Se a tosse é forte, apenas incentive a tossir."
+    },
+    {
+      "nr": "AHA 2025",
+      "tema": "Gestante e inconsciente",
+      "texto": "Em gestante ou pessoa obesa, compressões torácicas no lugar das abdominais. Se perder a consciência, acionar o serviço de emergência e iniciar RCP."
+    }
+  ],
+  "destaque": "No engasgo grave, o primeiro socorro é quem está do lado. Treine antes de precisar.",
+  "checklist_titulo": "Checklist de ação no engasgo",
+  "checklist": [
+    {
+      "grupo": "Reconhecer",
+      "icone": "alerta",
+      "itens": [
+        "Vítima não consegue falar, tossir ou respirar; mãos levadas ao pescoço.",
+        "Lábios ou rosto arroxeados, respiração ruidosa ou ausente.",
+        "Tosse forte presente: incentivar a tossir e acompanhar, sem intervir."
+      ]
+    },
+    {
+      "grupo": "Acionar",
+      "icone": "pessoas",
+      "itens": [
+        "Pedir ajuda e acionar o SAMU (192) ou a brigada, sem deixar a vítima sozinha.",
+        "Socorrista treinado assume; os demais afastam curiosos e liberam acesso."
+      ]
+    },
+    {
+      "grupo": "Agir",
+      "icone": "emergencia",
+      "itens": [
+        "Adulto e criança acima de 1 ano: 5 golpes nas costas alternados com 5 compressões abdominais.",
+        "Gestante ou pessoa obesa: compressões torácicas no lugar das abdominais.",
+        "Bebê menor de 1 ano: técnica própria (golpes nas costas e compressões no tórax), nunca a do adulto.",
+        "Não fazer varredura às cegas com o dedo na boca."
+      ]
+    },
+    {
+      "grupo": "Inconsciente",
+      "icone": "operacao",
+      "itens": [
+        "Vítima perdeu a consciência: deitar em superfície firme e iniciar RCP conforme a capacitação.",
+        "Objeto visível na boca: retirar somente se estiver ao alcance, sem empurrar."
+      ]
+    },
+    {
+      "grupo": "Preparação da empresa",
+      "icone": "equipamento",
+      "itens": [
+        "Plano de emergência prevê responsáveis, meios e recursos de primeiros socorros.",
+        "Equipe treinada em engasgo e RCP, com escala que cubra todos os turnos e refeitórios."
+      ]
+    }
+  ],
+  "paralisacao": "Mesmo com desobstrução bem-sucedida, a vítima não volta ao trabalho sem avaliação médica: compressões abdominais e torácicas podem causar lesões internas. Inconsciência, dor persistente ou dificuldade para respirar exigem atendimento de emergência.",
+  "registro": [
+    "Local/setor",
+    "Data e hora",
+    "Vítima",
+    "Socorrista(s)",
+    "Acionamento (SAMU/brigada)",
+    "Encaminhamento"
+  ],
+  "referencias": "NR-01 (preparação para emergências), Diretrizes AHA 2025 de RCP e primeiros socorros, plano de emergência e PCMSO da empresa.",
+  "aviso": "material de orientação; não substitui treinamento prático em primeiros socorros nem o atendimento do serviço de emergência."
+}

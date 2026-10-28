@@ -1,0 +1,108 @@
+{
+  "edicao": "17",
+  "categoria": "Açougues e peixarias",
+  "titulo": "Serra-fita no açougue",
+  "subtitulo": "Checklist para liberar a serra-fita no corte de carnes e peixes sem amputação de dedos e mãos.",
+  "aplicacao": "No início de cada turno, após limpeza, troca ou ajuste da fita e sempre que trocar o operador.",
+  "ilustracao": "serra_fita",
+  "abertura_titulo": "O osso trava, a mão avança",
+  "abertura": "Fim de expediente, balcão cheio, peça pequena para finalizar. O empurrador está encostado porque \"atrasa\", a canaleta ficou alta desde o último corte grande e o operador empurra a carne com a ponta dos dedos. A fita não para quando encontra a mão. Na serra-fita, o acidente quase sempre começa antes da operação: proteção desregulada, dispositivo de empurrar fora do lugar e ninguém conferindo.",
+  "riscos": [
+    {
+      "titulo": "Amputação",
+      "texto": "Dedos e mãos levados à fita ao empurrar a carne sem o empurrador."
+    },
+    {
+      "titulo": "Fita exposta",
+      "texto": "Canaleta desregulada ou proteção das polias aberta, deixando mais lâmina livre."
+    },
+    {
+      "titulo": "Intervenção em movimento",
+      "texto": "Limpeza, retirada de resíduo ou ajuste com a fita ainda girando."
+    },
+    {
+      "titulo": "Piso e postura",
+      "texto": "Piso com gordura e corpo projetado sobre a mesa desequilibrando o operador."
+    }
+  ],
+  "normas": [
+    {
+      "nr": "NR-12",
+      "tema": "Anexo VII · Proteção da fita",
+      "texto": "Polias e partes perigosas com proteções fixas ou móveis intertravadas; na região de corte, canaleta regulável deslizante liberando apenas a área mínima de fita."
+    },
+    {
+      "nr": "NR-12",
+      "tema": "Anexo VII · Empurrador",
+      "texto": "Braço articulado vertical (empurrador) para guiar e empurrar a carne e impedir o acesso da mão; dispositivo manual para peças pequenas e finalização do corte."
+    },
+    {
+      "nr": "NR-12",
+      "tema": "Anexo VII · Parada",
+      "texto": "No mínimo um botão de parada de emergência; movimentos perigosos cessam em até dois segundos quando a proteção móvel é acionada."
+    },
+    {
+      "nr": "NR-12",
+      "tema": "Intervenção e capacitação",
+      "texto": "Limpeza, ajuste e manutenção com a máquina parada e energias bloqueadas; operação só por trabalhador capacitado e autorizado."
+    }
+  ],
+  "destaque": "Não basta exigir cuidado do trabalhador: a máquina precisa impedir que a mão chegue à fita.",
+  "checklist_titulo": "Checklist de liberação da serra-fita",
+  "checklist": [
+    {
+      "grupo": "Máquina",
+      "icone": "equipamento",
+      "itens": [
+        "Máquina adequada à NR-12, com proteções e dispositivos de segurança.",
+        "Proteção das polias fechada; ao abrir, a fita para e não religa.",
+        "Canaleta regulada à altura da peça, liberando só a fita necessária ao corte."
+      ]
+    },
+    {
+      "grupo": "Empurrador e mesa",
+      "icone": "operacao",
+      "itens": [
+        "Utilização do empurrador de alimentos, mantendo as mãos afastadas da lâmina.",
+        "Braço empurrador firme, sem folga lateral, com punho e anteparo para a mão.",
+        "Dispositivo manual disponível para peças pequenas e finalização do corte."
+      ]
+    },
+    {
+      "grupo": "Parada e emergência",
+      "icone": "alerta",
+      "itens": [
+        "Botão de emergência acessível e testado no início do turno.",
+        "Fita para rápido ao acionar a emergência ou abrir a proteção."
+      ]
+    },
+    {
+      "grupo": "Operador",
+      "icone": "pessoas",
+      "itens": [
+        "Treinamento específico e autorização dos operadores.",
+        "Procedimentos seguros de operação e manutenção.",
+        "Limpeza e troca de fita só com a máquina desligada e bloqueada."
+      ]
+    },
+    {
+      "grupo": "Gestão",
+      "icone": "area",
+      "itens": [
+        "Supervisão e fiscalização das condições de trabalho.",
+        "Piso limpo, seco e sem resíduos em torno da serra."
+      ]
+    }
+  ],
+  "paralisacao": "Não operar ou parar se faltar o empurrador, se canaleta ou proteção das polias estiver ausente ou desregulada, se a emergência não parar a fita, ou se for preciso pôr a mão perto da fita em movimento.",
+  "registro": [
+    "Loja/setor",
+    "Data",
+    "Identificação da serra",
+    "Operador",
+    "Responsável pela verificação",
+    "Assinatura"
+  ],
+  "referencias": "NR-12 (parte geral e Anexo VII), manual do fabricante e procedimentos internos.",
+  "aviso": "checklist de apoio; não substitui APR, procedimentos e capacitação."
+}

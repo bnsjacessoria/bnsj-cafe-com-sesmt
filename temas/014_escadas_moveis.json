@@ -1,0 +1,107 @@
+{
+  "edicao": "14",
+  "categoria": "Varejo e reposição",
+  "titulo": "Escadas móveis na reposição",
+  "subtitulo": "Checklist para liberar a escada móvel na reposição de mercadorias sem queda do trabalhador, tombamento da escada ou risco a quem circula.",
+  "aplicacao": "Antes de cada uso da escada móvel na loja, ao mudar de corredor ou de gôndola e sempre que mudar o piso, o movimento de clientes ou a carga levada para cima.",
+  "ilustracao": "escada_movel",
+  "abertura_titulo": "Parecer firme não é estar travada",
+  "abertura": "O repositor sobe com a caixa no braço, a escada parece firme e ele estica o corpo para alcançar a última prateleira. A rodinha que estava sem trava gira dois dedos, a escada desliza e ele cai no corredor, onde passava um cliente com o carrinho. Ninguém conferiu a trava porque \"sempre foi assim\". Trava acionada, piso avaliado e corredor isolado se decidem no chão, antes do primeiro degrau.",
+  "riscos": [
+    {
+      "titulo": "Queda do trabalhador",
+      "texto": "Subida com as mãos ocupadas, corpo fora da escada ou degrau escorregadio."
+    },
+    {
+      "titulo": "Tombamento e deslocamento",
+      "texto": "Rodízio sem trava, piso desnivelado ou escada empurrada com alguém em cima."
+    },
+    {
+      "titulo": "Queda de mercadoria",
+      "texto": "Caixas e produtos caindo da escada ou da gôndola sobre quem está abaixo."
+    },
+    {
+      "titulo": "Terceiros na zona de risco",
+      "texto": "Clientes e colegas circulando sob a escada ou na área de manobra."
+    }
+  ],
+  "normas": [
+    {
+      "nr": "NR-01",
+      "tema": "Gerenciamento de riscos",
+      "texto": "Identificar perigos, avaliar riscos e implementar medidas de prevenção no PGR, informando os trabalhadores."
+    },
+    {
+      "nr": "NR-35",
+      "tema": "Anexo III · Planejamento",
+      "texto": "Escada como acesso ou posto de trabalho exige análise de risco; capacitação inclui o uso seguro de escada de uso individual."
+    },
+    {
+      "nr": "NR-35",
+      "tema": "Anexo III · Uso",
+      "texto": "Escada portátil só para serviços de pequeno porte; subida e descida com 3 pontos de apoio; piso estável e sapatas antiderrapantes."
+    },
+    {
+      "nr": "NR-35",
+      "tema": "Anexo III · Procedimento",
+      "texto": "Procedimento de uso e manutenção com carga máxima e limitações; escada autossustentável só com limitadores operantes."
+    }
+  ],
+  "destaque": "Segurança não é só saber subir uma escada. É garantir que ela não caia e não coloque outras vidas em risco.",
+  "checklist_titulo": "Checklist da escada móvel",
+  "checklist": [
+    {
+      "grupo": "Escada",
+      "icone": "equipamento",
+      "itens": [
+        "Travamento das rodinhas: todos os dispositivos de travamento acionados e funcionando antes de subir.",
+        "Degraus, corrimãos, sapatas e limitadores íntegros; carga máxima visível na escada."
+      ]
+    },
+    {
+      "grupo": "Piso e fixação",
+      "icone": "area",
+      "itens": [
+        "Estabilidade: piso nivelado, seco e firme sob a escada.",
+        "Fixação à gôndola só quando tecnicamente dimensionada e autorizada."
+      ]
+    },
+    {
+      "grupo": "Olhar 360°",
+      "icone": "alerta",
+      "itens": [
+        "Área de trabalho isolada e sinalizada.",
+        "Nenhum cliente ou colega na zona de risco.",
+        "Sem obstáculos, mercadorias ou interferências na movimentação."
+      ]
+    },
+    {
+      "grupo": "Execução",
+      "icone": "pessoas",
+      "itens": [
+        "Subida e descida de frente para a escada, com 3 pontos de apoio e mãos livres.",
+        "Mercadoria e ferramentas sem comprometer a estabilidade nem soltas sobre a escada.",
+        "Ninguém movimenta a escada com alguém sobre ela."
+      ]
+    },
+    {
+      "grupo": "Gestão",
+      "icone": "operacao",
+      "itens": [
+        "Repositor treinado no procedimento de uso da escada e na percepção de risco.",
+        "Inspeção periódica registrada; escada com defeito fora de uso."
+      ]
+    }
+  ],
+  "paralisacao": "Não execute a manobra se a trava das rodinhas não segurar, se a escada balançar ou estiver danificada, se o piso estiver molhado ou desnivelado, ou se houver cliente ou colega na zona de risco.",
+  "registro": [
+    "Loja/setor",
+    "Data",
+    "Corredor/gôndola",
+    "Identificação da escada",
+    "Repositor",
+    "Responsável pela liberação"
+  ],
+  "referencias": "NR-01, NR-35 (Anexo III – Escadas), manual do fabricante e procedimentos internos.",
+  "aviso": "checklist de apoio; não substitui APR, procedimentos e capacitação."
+}

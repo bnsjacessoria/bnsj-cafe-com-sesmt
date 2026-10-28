@@ -1,0 +1,107 @@
+{
+  "edicao": "07",
+  "categoria": "Máquinas pesadas",
+  "titulo": "Escavadeiras e retroescavadeiras",
+  "subtitulo": "Checklist para prevenir atropelamento, tombamento e atingimento pela concha em frentes de escavação.",
+  "aplicacao": "Antes do início da jornada, na mudança de frente e sempre que mudarem as condições do terreno ou da equipe no entorno.",
+  "ilustracao": "escavadeira",
+  "abertura_titulo": "Terreno e raio de giro",
+  "abertura": "Máquina pesada vira acidente por dois caminhos: o terreno que cede e a pessoa que entra no raio de ação. A escavadeira gira a cabine e a lança em segundos, o operador tem pontos cegos amplos e a concha não para a tempo. Já o tombamento costuma ser anunciado antes — borda de vala, talude encharcado, inclinação além da capacidade — mas só quem avaliou o terreno percebe.",
+  "riscos": [
+    {
+      "titulo": "Atingimento",
+      "texto": "Pessoa no raio de giro da cabine, da lança ou da concha."
+    },
+    {
+      "titulo": "Atropelamento",
+      "texto": "Manobras e marcha à ré com pontos cegos e pedestres próximos."
+    },
+    {
+      "titulo": "Tombamento",
+      "texto": "Terreno instável, bordas de vala, taludes e inclinação excessiva."
+    },
+    {
+      "titulo": "Soterramento",
+      "texto": "Desmoronamento de paredes de escavação sobre trabalhadores."
+    }
+  ],
+  "normas": [
+    {
+      "nr": "NR-12",
+      "tema": "Máquinas e equipamentos",
+      "texto": "Operação por trabalhador capacitado e autorizado; dispositivos de segurança, sinalização sonora e manutenção conforme o fabricante."
+    },
+    {
+      "nr": "NR-18",
+      "tema": "Construção",
+      "texto": "Escavações com avaliação do terreno, escoramento quando necessário, sinalização e circulação segura de máquinas e pessoas no canteiro."
+    },
+    {
+      "nr": "NR-01",
+      "tema": "GRO / PGR",
+      "texto": "Riscos da frente identificados no inventário, com medidas de prevenção no plano de ação."
+    },
+    {
+      "nr": "NR-06",
+      "tema": "EPI",
+      "texto": "Vestimenta de alta visibilidade e demais EPI conforme os riscos avaliados."
+    }
+  ],
+  "destaque": "Se você não vê o operador, ele também não vê você.",
+  "checklist_titulo": "Checklist de liberação da frente",
+  "checklist": [
+    {
+      "grupo": "Máquina e operador",
+      "icone": "equipamento",
+      "itens": [
+        "Operador capacitado e autorizado para o modelo de máquina.",
+        "Inspeção pré-uso feita: freios, hidráulico, esteiras/pneus, alarme de ré, buzina, iluminação e cinto do operador.",
+        "Engates rápidos da concha travados e conferidos."
+      ]
+    },
+    {
+      "grupo": "Terreno",
+      "icone": "clima",
+      "itens": [
+        "Terreno avaliado: firmeza, inclinação, bordas de vala, taludes e presença de água.",
+        "Máquina posicionada a distância segura das bordas de escavação.",
+        "Escoramento ou talude adequado nas escavações com trabalhadores no interior."
+      ]
+    },
+    {
+      "grupo": "Raio de ação",
+      "icone": "area",
+      "itens": [
+        "Raio de giro e área de manobra isolados e sinalizados.",
+        "Ninguém entra no raio de ação sem contato visual e sinal do operador.",
+        "Sinaleiro definido quando houver pontos cegos ou pessoas próximas."
+      ]
+    },
+    {
+      "grupo": "Interferências",
+      "icone": "alerta",
+      "itens": [
+        "Redes elétricas aéreas e redes enterradas (gás, água, elétrica) identificadas antes de escavar.",
+        "Proibido uso da concha para transportar ou elevar pessoas."
+      ]
+    },
+    {
+      "grupo": "Ao parar",
+      "icone": "operacao",
+      "itens": [
+        "Concha apoiada no chão, motor desligado e chave retirada ao deixar a máquina."
+      ]
+    }
+  ],
+  "paralisacao": "Parar imediatamente com pessoa no raio de ação, perda de contato visual ou comunicação, terreno cedendo ou trincando, água acumulada na escavação, alarme de ré ou freio com defeito, ou interferência não identificada.",
+  "registro": [
+    "Obra/frente",
+    "Data",
+    "Máquina",
+    "Operador",
+    "Responsável pela verificação",
+    "Assinatura"
+  ],
+  "referencias": "NR-01, NR-06, NR-12, NR-18, manual do fabricante e procedimentos internos.",
+  "aviso": "checklist de apoio; não substitui APR, projeto de escavação e escoramento, inspeções e capacitação."
+}

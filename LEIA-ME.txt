@@ -1,0 +1,13 @@
+CAFE COM SESMT - KIT DE GERACAO DE E-BOOKS (BNSJ)
+
+Estrutura:
+  gerar_ebook.py          gerador (python gerar_ebook.py temas\NNN_tema.json)
+  config_bnsj.json        dados fixos: Instagram, livro, site, tagline
+  registro_edicoes.json   edicoes ja geradas e Reels ja processados
+  temas\                  um JSON por edicao (conteudo do e-book)
+  assets\                 logo, fotos do livro, simbolo, fontes
+  saida\                  PDFs prontos para enviar no "EU QUERO"
+  novos\                  rascunhos gerados pela tarefa diaria, aguardando revisao
+
+Requisitos para rodar localmente: Python 3 + pip install weasyprint "qrcode[pil]"
+(no Windows o WeasyPrint precisa do GTK; a tarefa diaria gera os PDFs na nuvem e grava aqui).

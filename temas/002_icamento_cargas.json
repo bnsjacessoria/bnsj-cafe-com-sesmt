@@ -1,0 +1,113 @@
+{
+  "edicao": "02",
+  "categoria": "Movimentação de cargas",
+  "titulo": "Içamento de cargas",
+  "subtitulo": "Checklist de liberação para prevenir queda de carga, prensamento e tombamento do equipamento em operações de guindar.",
+  "aplicacao": "Antes de cada içamento, na troca de carga ou acessório e sempre que mudarem as condições de área, terreno ou clima.",
+  "ilustracao": "guindaste",
+  "abertura_titulo": "A carga não perdoa improviso",
+  "abertura": "Em içamento, o acidente raramente começa no momento em que a carga cai. Ele começa antes: no peso estimado no olho, na cinta com corte que \"ainda aguenta\", no ponto de pega improvisado, na pessoa que entra na zona de balanço para ajeitar a carga com a mão. Quando algo falha com a carga no ar, não existe tempo de reação. Por isso a segurança do içamento é decidida no chão, antes de a carga subir.",
+  "riscos": [
+    {
+      "titulo": "Queda da carga",
+      "texto": "Peso desconhecido, acessório danificado, amarração mal feita ou ponto de pega inadequado."
+    },
+    {
+      "titulo": "Prensamento",
+      "texto": "Pessoas sob a carga, na trajetória ou entre a carga e estruturas fixas — a chamada linha de fogo."
+    },
+    {
+      "titulo": "Tombamento",
+      "texto": "Terreno sem capacidade, estabilizadores mal apoiados, vento ou carga acima da capacidade no raio."
+    },
+    {
+      "titulo": "Contato elétrico",
+      "texto": "Lança, cabo ou carga aproximando-se de redes elétricas energizadas."
+    }
+  ],
+  "normas": [
+    {
+      "nr": "NR-11",
+      "tema": "Movimentação de materiais",
+      "texto": "Equipamentos dimensionados para a carga, com carga máxima indicada em local visível; cabos, correntes e ganchos inspecionados permanentemente; operador com treinamento específico."
+    },
+    {
+      "nr": "NR-12",
+      "tema": "Máquinas e equipamentos",
+      "texto": "Operação somente por trabalhador capacitado e autorizado; manutenção e inspeção conforme o fabricante e dispositivos de segurança em funcionamento."
+    },
+    {
+      "nr": "NR-18",
+      "tema": "Construção",
+      "texto": "Plano de cargas para cada equipamento de guindar, integrado ao PGR; operador e sinaleiro/amarrador capacitados; isolamento da área sob carga suspensa; inspeção diária registrada."
+    },
+    {
+      "nr": "NR-10",
+      "tema": "Eletricidade",
+      "texto": "Atividades próximas a redes energizadas devem respeitar as zonas de risco e controlada, com medidas de controle definidas antes do início."
+    }
+  ],
+  "destaque": "O maior erro não é a carga cair. É ter alguém no lugar onde ela vai cair.",
+  "checklist_titulo": "Checklist de liberação do içamento",
+  "checklist": [
+    {
+      "grupo": "Carga e planejamento",
+      "icone": "carga",
+      "itens": [
+        "Carga identificada: peso, dimensões e centro de gravidade conhecidos.",
+        "Plano de içamento elaborado quando necessário: especialmente para operações críticas, cargas especiais ou condições não rotineiras.",
+        "APR/PT realizada quando aplicável: riscos específicos da operação avaliados antes do início."
+      ]
+    },
+    {
+      "grupo": "Equipamento e acessórios",
+      "icone": "gancho",
+      "itens": [
+        "Equipamento de içamento adequado: capacidade compatível com a carga e condições da operação.",
+        "Acessórios inspecionados: cintas, cabos, correntes, manilhas, ganchos e demais acessórios sem danos aparentes e com capacidade compatível.",
+        "Pontos de içamento definidos: pontos de pega/ancoragem adequados e resistentes.",
+        "Amarração conferida: carga corretamente fixada, equilibrada e sem possibilidade previsível de deslocamento."
+      ]
+    },
+    {
+      "grupo": "Área e trajetória",
+      "icone": "area",
+      "itens": [
+        "Área isolada e sinalizada: acesso de pessoas não envolvidas impedido.",
+        "Distância segura estabelecida: trabalhadores posicionados fora da trajetória e da zona de queda/balanço da carga.",
+        "Proibida permanência sob carga suspensa: ninguém deve permanecer ou transitar sob a carga.",
+        "Trajeto do içamento verificado: livre de obstáculos, estruturas, veículos e interferências.",
+        "Redes elétricas avaliadas: verificadas possíveis interferências e mantidas as distâncias de segurança aplicáveis."
+      ]
+    },
+    {
+      "grupo": "Condições do local",
+      "icone": "clima",
+      "itens": [
+        "Condições do terreno avaliadas: estabilidade, nivelamento e resistência adequados para equipamento e estabilizadores.",
+        "Condições climáticas verificadas: atenção especial a vento, chuva e baixa visibilidade."
+      ]
+    },
+    {
+      "grupo": "Equipe e comunicação",
+      "icone": "pessoas",
+      "itens": [
+        "Operador autorizado/capacitado: profissional apto para o equipamento utilizado.",
+        "Sinaleiro definido: quando necessário, uma pessoa responsável pela comunicação com o operador.",
+        "Comunicação combinada: sinais manuais ou rádio definidos antes do início.",
+        "Teste inicial realizado: elevar a carga poucos centímetros para verificar equilíbrio e estabilidade antes de prosseguir."
+      ]
+    }
+  ],
+  "paralisacao": "Regra de ouro: na dúvida sobre peso, capacidade, amarração, estabilidade ou distância segura, o içamento não começa. Pare na hora com pessoa na zona de risco, acessório danificado, vento ou visibilidade ruins, terreno cedendo ou perda de comunicação.",
+  "registro": [
+    "Obra/frente",
+    "Data",
+    "Equipamento",
+    "Operador",
+    "Sinaleiro/amarrador",
+    "Responsável pela liberação"
+  ],
+  "referencias": "NR-01, NR-10, NR-11, NR-12, NR-18 (quando aplicável), manual do fabricante, plano de cargas e procedimentos internos.",
+  "aviso": "checklist de apoio; não substitui plano de cargas/rigging, APR, PT, inspeções e capacitação."
+}

@@ -1,0 +1,109 @@
+{
+  "edicao": "04",
+  "categoria": "Trabalho em altura",
+  "titulo": "Liberação de trabalho em altura",
+  "subtitulo": "Checklist para prevenir quedas de pessoas e de materiais em atividades acima de 2 metros.",
+  "aplicacao": "Antes de cada atividade em altura, na mudança de frente e sempre que mudarem as condições do local, do clima ou da equipe.",
+  "ilustracao": "altura",
+  "abertura_titulo": "A queda não avisa",
+  "abertura": "Trabalho em altura não pode ser tratado como rotina. Uma tontura, um desequilíbrio ou um apoio que cede acontecem em segundos — e é justamente para o imprevisto que existem ancoragem, sistema de proteção contra quedas, planejamento e resgate. Cinto sem ponto de ancoragem confiável é só um acessório; e trabalhador suspenso sem plano de resgate ainda está em risco.",
+  "riscos": [
+    {
+      "titulo": "Queda de pessoa",
+      "texto": "Ausência de proteção coletiva, ancoragem improvisada ou trabalhador desconectado."
+    },
+    {
+      "titulo": "Queda de material",
+      "texto": "Ferramentas e materiais soltos atingindo quem está abaixo."
+    },
+    {
+      "titulo": "Suspensão inerte",
+      "texto": "Trabalhador pendurado no cinturão sem resgate rápido."
+    },
+    {
+      "titulo": "Mal súbito",
+      "texto": "Trabalhador sem aptidão avaliada ou em condição inadequada no dia."
+    }
+  ],
+  "normas": [
+    {
+      "nr": "NR-35",
+      "tema": "Trabalho em altura",
+      "texto": "Planejamento, análise de risco e, quando aplicável, permissão de trabalho; prioridade a medidas que evitem o trabalho em altura e a proteção coletiva; plano de resgate."
+    },
+    {
+      "nr": "NR-35",
+      "tema": "Treinamento",
+      "texto": "Desde a Portaria MTE nº 1.259/2026, os treinamentos da NR-35 devem ser realizados na modalidade presencial."
+    },
+    {
+      "nr": "NR-07",
+      "tema": "Aptidão",
+      "texto": "Trabalhador avaliado e considerado apto para trabalho em altura no exame ocupacional, com registro no ASO."
+    },
+    {
+      "nr": "NR-06",
+      "tema": "EPI",
+      "texto": "Cinturão tipo paraquedista e talabarte/trava-quedas certificados, inspecionados antes do uso e compatíveis entre si."
+    }
+  ],
+  "destaque": "O cinto não segura ninguém sozinho. Quem segura é a ancoragem — e quem tira de lá é o resgate.",
+  "checklist_titulo": "Checklist de liberação da atividade",
+  "checklist": [
+    {
+      "grupo": "Planejamento",
+      "icone": "carga",
+      "itens": [
+        "Análise de risco da atividade realizada e permissão de trabalho emitida quando aplicável.",
+        "Verificado se a tarefa pode ser feita sem trabalho em altura ou com proteção coletiva.",
+        "Plano de resgate definido, com equipe e meios disponíveis no local."
+      ]
+    },
+    {
+      "grupo": "Trabalhador",
+      "icone": "pessoas",
+      "itens": [
+        "Trabalhador treinado (presencial) e autorizado para trabalho em altura.",
+        "Aptidão para trabalho em altura registrada no ASO e trabalhador em boas condições no dia."
+      ]
+    },
+    {
+      "grupo": "Ancoragem e equipamentos",
+      "icone": "gancho",
+      "itens": [
+        "Ponto de ancoragem definido, resistente e posicionado para reduzir a altura de queda livre.",
+        "Cinturão, talabarte, trava-quedas e conectores inspecionados, sem danos e compatíveis entre si.",
+        "Zona livre de queda verificada: o trabalhador não atinge o nível inferior ou obstáculos se cair.",
+        "Trabalhador permanece conectado durante toda a exposição, inclusive nos deslocamentos."
+      ]
+    },
+    {
+      "grupo": "Local e acesso",
+      "icone": "area",
+      "itens": [
+        "Acesso seguro (escada, plataforma ou andaime) íntegro, fixado e adequado à tarefa.",
+        "Área abaixo isolada e sinalizada contra queda de materiais.",
+        "Ferramentas presas ou acondicionadas para não cair."
+      ]
+    },
+    {
+      "grupo": "Condições",
+      "icone": "clima",
+      "itens": [
+        "Condições climáticas avaliadas: vento, chuva, raios e iluminação.",
+        "Proximidade de redes elétricas verificada e controlada."
+      ]
+    }
+  ],
+  "paralisacao": "Não iniciar ou interromper com ancoragem duvidosa, EPI danificado, trabalhador sem condição no dia, vento ou chuva forte, ausência de resgate disponível ou qualquer situação não prevista na análise de risco.",
+  "registro": [
+    "Local/frente",
+    "Data",
+    "Atividade",
+    "Executante(s)",
+    "Responsável pela liberação",
+    "Assinatura"
+  ],
+  "referencias": "NR-01, NR-06, NR-07, NR-35 (redação dada pela Portaria MTE nº 1.259/2026), manuais dos fabricantes dos EPI e procedimentos internos.",
+  "aviso": "checklist de apoio; não substitui análise de risco, permissão de trabalho, plano de resgate e treinamento."
+}

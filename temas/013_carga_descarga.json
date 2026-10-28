@@ -1,0 +1,101 @@
+{
+  "edicao": "13",
+  "categoria": "Logística e pátios",
+  "titulo": "Carga e descarga de veículos",
+  "subtitulo": "Checklist para imobilizar o veículo e liberar a operação de carga e descarga antes da primeira movimentação.",
+  "aplicacao": "Antes de cada operação de carga ou descarga em doca, pátio ou canteiro, e sempre que mudar o veículo, o piso, a equipe ou o equipamento de movimentação.",
+  "ilustracao": "caminhao",
+  "abertura_titulo": "Freio puxado não é veículo travado",
+  "abertura": "A empilhadeira entra no baú, freia em cima da carga e empurra a carreta alguns centímetros. Na terceira entrada, abre um vão entre a doca e o veículo e a máquina vai junto. O motorista achou que o freio de estacionamento resolvia; o operador achou que o motorista tinha calçado. Ninguém conferiu. Calço nas rodas, piso avaliado e combinação clara entre motorista e operador resolvem antes do primeiro palete.",
+  "riscos": [
+    {
+      "titulo": "Deslocamento do veículo",
+      "texto": "Caminhão ou carreta se movendo durante a operação, abrindo vão na doca."
+    },
+    {
+      "titulo": "Queda de equipamento",
+      "texto": "Empilhadeira ou paleteira caindo entre a doca e a carroceria."
+    },
+    {
+      "titulo": "Instabilidade",
+      "texto": "Piso irregular, inclinado ou cedendo sob o veículo e a carga."
+    },
+    {
+      "titulo": "Atropelamento e prensamento",
+      "texto": "Pessoas circulando na zona de movimentação durante a operação."
+    }
+  ],
+  "normas": [
+    {
+      "nr": "NR-01",
+      "tema": "Gerenciamento de riscos",
+      "texto": "Identificar perigos, avaliar riscos e implementar medidas de prevenção da operação no PGR, informando os trabalhadores sobre riscos e medidas adotadas."
+    },
+    {
+      "nr": "NR-11",
+      "tema": "Operador",
+      "texto": "Operador de equipamento de transporte motorizado com treinamento específico, habilitado e portando cartão de identificação com nome e fotografia em lugar visível."
+    },
+    {
+      "nr": "NR-11",
+      "tema": "Equipamento",
+      "texto": "Equipamento mantido em perfeitas condições, com carga máxima indicada em lugar visível e sinal de advertência sonora (buzina) nos motorizados."
+    },
+    {
+      "nr": "NR-26",
+      "tema": "Sinalização",
+      "texto": "Sinalização e identificação de segurança nos locais de trabalho, com cores para indicar e advertir acerca dos perigos e riscos existentes."
+    }
+  ],
+  "destaque": "Segurança não começa quando o acidente acontece. Começa antes da primeira movimentação.",
+  "checklist_titulo": "Checklist de liberação da carga e descarga",
+  "checklist": [
+    {
+      "grupo": "Imobilização",
+      "icone": "operacao",
+      "itens": [
+        "Imobilização do veículo: estacionar em local adequado, desligar o motor quando aplicável e acionar o freio de estacionamento.",
+        "Calçamento das rodas: utilizar calços apropriados, especialmente em operações com cargas pesadas, evitando deslocamentos involuntários.",
+        "Chave fora da ignição ou veículo travado na doca até o fim da operação."
+      ]
+    },
+    {
+      "grupo": "Piso e doca",
+      "icone": "area",
+      "itens": [
+        "Verificação da estabilidade: conferir as condições do piso, possíveis inclinações e a estabilidade do veículo.",
+        "Nivelador ou rampa da doca em posição, sem vão entre a doca e a carroceria.",
+        "Assoalho da carroceria íntegro para suportar o equipamento e a carga."
+      ]
+    },
+    {
+      "grupo": "Equipe e equipamento",
+      "icone": "pessoas",
+      "itens": [
+        "Comunicação entre equipes: garantir que motorista e operadores estejam alinhados antes de iniciar a movimentação.",
+        "Operador da empilhadeira treinado, habilitado e com cartão de identificação visível.",
+        "Empilhadeira inspecionada, buzina funcionando e carga dentro da capacidade indicada."
+      ]
+    },
+    {
+      "grupo": "Área de operação",
+      "icone": "alerta",
+      "itens": [
+        "Isolamento da área: impedir a circulação de pessoas nas zonas de risco durante a operação.",
+        "Motorista fora da cabine e fora da zona de movimentação, em local definido.",
+        "Liberação para saída só após a retirada dos calços combinada entre operador e motorista."
+      ]
+    }
+  ],
+  "paralisacao": "Pare a operação na hora se o veículo se mover, se faltar calço ou o freio não segurar, se abrir vão entre doca e carroceria, se o piso ceder ou se houver pessoa na zona de movimentação.",
+  "registro": [
+    "Unidade/doca",
+    "Data",
+    "Veículo/placa",
+    "Motorista",
+    "Operador",
+    "Responsável pela liberação"
+  ],
+  "referencias": "NR-01, NR-11, NR-26, manual do fabricante do equipamento e procedimentos internos de doca e pátio.",
+  "aviso": "checklist de apoio; não substitui APR, procedimentos de carga e descarga, manual do fabricante e capacitação."
+}

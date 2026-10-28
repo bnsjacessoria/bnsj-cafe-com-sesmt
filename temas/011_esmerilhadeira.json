@@ -1,0 +1,101 @@
+{
+  "edicao": "11",
+  "categoria": "Ferramentas portáteis",
+  "titulo": "Esmerilhadeira e discos de corte",
+  "subtitulo": "Checklist para prevenir contragolpe, quebra de disco e cortes graves no uso de esmerilhadeiras e ferramentas com disco.",
+  "aplicacao": "Antes de cada uso, na troca de disco ou de material e sempre que mudarem o local, a posição de trabalho ou o operador.",
+  "ilustracao": "esmerilhadeira",
+  "abertura_titulo": "O tranco vem antes do susto",
+  "abertura": "Quem usa esmerilhadeira todo dia conhece o tranco: o disco prende no material e a máquina volta na direção do corpo. Em fração de segundo, a ferramenta que estava sob controle vira um disco girando livre perto da perna, da mão ou do rosto. Disco errado, proteção retirada, força demais e uma mão só no punho são as causas que se repetem nos relatos de acidente.",
+  "riscos": [
+    {
+      "titulo": "Contragolpe",
+      "texto": "Disco trava no material e a máquina é projetada contra o operador."
+    },
+    {
+      "titulo": "Quebra do disco",
+      "texto": "Disco inadequado, vencido, trincado ou acima da rotação permitida."
+    },
+    {
+      "titulo": "Projeção de partículas",
+      "texto": "Fagulhas e fragmentos atingindo olhos, rosto e quem está próximo."
+    },
+    {
+      "titulo": "Choque e incêndio",
+      "texto": "Cabo danificado, ferramenta sem duplo isolamento e faíscas perto de inflamáveis."
+    }
+  ],
+  "normas": [
+    {
+      "nr": "NR-12",
+      "tema": "Campo de aplicação",
+      "texto": "Não se aplica a ferramentas portáteis elétricas que atendam norma técnica tipo C; nesses casos valem a norma técnica e o manual do fabricante."
+    },
+    {
+      "nr": "NR-18",
+      "tema": "Ferramentas em obras",
+      "texto": "Trabalhador capacitado e instruído; ferramenta vistoriada antes do uso; disco específico para o material; proteções removíveis só retiradas para limpeza, reparo ou ajuste e recolocadas."
+    },
+    {
+      "nr": "NR-18",
+      "tema": "Parte elétrica",
+      "texto": "Proibida ferramenta elétrica portátil sem duplo isolamento; cabo de alimentação sem torção, ruptura ou abrasão e sem obstruir a circulação."
+    },
+    {
+      "nr": "NR-01",
+      "tema": "Gerenciamento de riscos",
+      "texto": "Identificar os perigos e avaliar os riscos da atividade, com medidas de prevenção no PGR e trabalhadores informados sobre os riscos e as medidas adotadas."
+    }
+  ],
+  "destaque": "Experiência não segura o tranco. Quem segura é o disco certo, a proteção no lugar e as duas mãos no punho.",
+  "checklist_titulo": "Checklist de uso seguro",
+  "checklist": [
+    {
+      "grupo": "Ferramenta",
+      "icone": "equipamento",
+      "itens": [
+        "Ferramenta vistoriada: carcaça, interruptor, punho auxiliar e proteção do disco no lugar.",
+        "Cabo e plugue sem emendas, cortes ou abrasão; ferramenta com duplo isolamento."
+      ]
+    },
+    {
+      "grupo": "Disco",
+      "icone": "alerta",
+      "itens": [
+        "Disco específico para o material a ser cortado ou desbastado.",
+        "Rotação máxima do disco igual ou superior à da máquina; disco dentro da validade.",
+        "Disco sem trincas, umidade ou deformação; flange e porca corretamente apertados."
+      ]
+    },
+    {
+      "grupo": "Operação",
+      "icone": "operacao",
+      "itens": [
+        "Duas mãos nos pontos de empunhadura previstos durante toda a operação.",
+        "Corpo fora da linha do disco; pés firmes e postura equilibrada.",
+        "Sem força excessiva: deixar o disco cortar; peça fixada, nunca segura com a mão.",
+        "Aguardar a parada total do disco antes de apoiar a ferramenta."
+      ]
+    },
+    {
+      "grupo": "Área e pessoas",
+      "icone": "area",
+      "itens": [
+        "Área isolada contra projeção de fagulhas; ninguém na direção do jato.",
+        "Inflamáveis afastados; análise de trabalho a quente quando aplicável.",
+        "Trabalhador capacitado, com protetor facial sobre óculos, luvas e protetor auricular."
+      ]
+    }
+  ],
+  "paralisacao": "Não usar ou interromper com proteção do disco ausente, disco trincado ou incompatível com a rotação, cabo danificado, peça sem fixação, pessoas na linha de projeção ou inflamáveis próximos sem controle.",
+  "registro": [
+    "Local/frente",
+    "Data",
+    "Ferramenta",
+    "Tipo de disco",
+    "Operador",
+    "Responsável pela liberação"
+  ],
+  "referencias": "NR-01, NR-06, NR-12 (item 12.1.4), NR-18 (ferramentas, em obras), manual do fabricante da ferramenta e especificações do disco.",
+  "aviso": "checklist de apoio; não substitui APR, procedimentos, manual do fabricante e capacitação."
+}
